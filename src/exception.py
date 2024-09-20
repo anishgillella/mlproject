@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 # Importing the logger from the logger module to log exceptions
 from src.logger import logging
